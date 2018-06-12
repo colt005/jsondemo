@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "movies": [
     {
-      "id": 1,
-      "title": "hello"
+      "movie": "Avengers",
+      "year": 2012
     }
   ],
   "profile": {
